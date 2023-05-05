@@ -11,6 +11,7 @@ I'm a student at NIT,Raipur<br>Learning Web Developement<br>Grinding Leetcode DS
 ![](https://github-readme-stats.vercel.app/api?username=bapunmalik&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bapunmalik&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bapunmalik&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bapunmalik&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bapunmalik&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
